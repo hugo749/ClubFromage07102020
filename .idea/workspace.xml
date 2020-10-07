@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8826921-7118-4b8b-b66d-404a4b7a84db" name="Default Changelist" comment="auoloader" />
+    <list default="true" id="e8826921-7118-4b8b-b66d-404a4b7a84db" name="Default Changelist" comment="auoloader">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/Model/Autoloader.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/Autoloader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,18 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/htdocs" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="autoloader" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="hugo749" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="ClubFromage07102020" />
   </component>
   <component name="ProjectId" id="1hu3nD5szmJJxC9aXyX2sSTtGnm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,6 +63,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClubFromage\htdocs" />
+      <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClubFromage\htdocs\Model" />
       <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClubFromage\htdocs\Model\business" />
     </key>
   </component>
@@ -62,7 +79,8 @@
       <workItem from="1600847315751" duration="7341000" />
       <workItem from="1601446279772" duration="8642000" />
       <workItem from="1601455076721" duration="53000" />
-      <workItem from="1601455157698" duration="60000" />
+      <workItem from="1601455157698" duration="2493000" />
+      <workItem from="1602060376726" duration="3070000" />
     </task>
     <task id="LOCAL-00001" summary="auoloader">
       <created>1601454543027</created>
@@ -103,10 +121,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600852877656" />
-    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1601454576526">
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1601455236883">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601454576526" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455236883" />
+    <state x="719" y="387" key="Github.CreatePullRequestDialog" timestamp="1602063319986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="387" key="Github.CreatePullRequestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602063319986" />
+    <state x="829" y="418" key="Github.ShareDialog" timestamp="1602061413532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="418" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602061413532" />
     <state x="-1126" y="443" key="NewPhpFileDialog" timestamp="1601447504564">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -116,9 +142,14 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455216508" />
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601454609152">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602063339831">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601454609152" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602063339831" />
+    <state x="265" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602061273572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="265" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602061273572" />
   </component>
 </project>
